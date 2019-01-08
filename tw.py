@@ -4,11 +4,11 @@ from textblob import TextBlob
 
 
 
-consumer_key = '5bYzFEwwmu4v0IB5YoQJJ39d8'
-consumer_secret = 'kVHTrEzdZDhBy6h91YuoGUMCszaL1Ah0zwmT7R7shej2P7DWIc'
+consumer_key = ''
+consumer_secret = ''
 
-access_token = '843373452945903616-lUDFJIeSPSPbmq4FGwTOKpM7KoYYdBp'
-access_token_secret = 'pR9g0wXM2M0GyIDA2JWaqtiCp937cvbiy5MXrxMsEWVpa'
+access_token = ''
+access_token_secret = ''
 
 
 print("Searching for tweets")
